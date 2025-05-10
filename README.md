@@ -23,7 +23,7 @@ The goal is to compare the performance of eight supervised learning algorithms u
 
 ---
 
-## 🔧 Task Description
+## Task Description
 
 1. **Build eight classification models** using Python and Scikit-learn.
 
