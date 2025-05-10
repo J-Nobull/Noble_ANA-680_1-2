@@ -1,24 +1,3 @@
-# Noble_ANA-680_Week_1_assignment 2
-Building Classification Models
-
-You are provided with a breast cancer dataset (Breast_Cancer_Data.csv) taken originally from the UCI data repository.  
-https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)
-
-This dataset has approximately 683 patient data with 10 features and 1 class label describing whether the patient has cancer or not. Each row describes one patient, and the class column describes if the patient tumor is benign (label = 2) or malignant (label = 4). For this dataset, build eight(8) classification models (using Python and Scikit-learn) and tabulate the accuracy and confusion matrix obtained for each. Split the dataset such that the test data size is 25% of the total dataset.
-
-Code each classification model in a separate python file. Then, tabulate the accuracy and confusion matrix in a Word document.
-
-a. Logistic Regression
-b. KNN (k=5)
-c. Linear SVM (kernel = 'linear')
-d. Kernel SVM (kernel = 'rbf')
-e. Naïve Bayes
-f. Decision Tree
-g. Random Forest (estimators = 10)
-h. XGBoost
-
-
-
 # Noble\_ANA-680\_Week\_1\_Assignment\_2
 
 **Building and Evaluating Classification Models**
